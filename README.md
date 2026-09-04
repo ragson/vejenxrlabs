@@ -1,2 +1,2 @@
-# vejenxrlabs.com
+# vejenxrlabs
 website
